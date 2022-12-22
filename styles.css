@@ -24,6 +24,7 @@ body {
 }
 
 #seuraava {
+    border-radius: 15px;
     padding: 1rem;
     margin: 1rem;
 }
