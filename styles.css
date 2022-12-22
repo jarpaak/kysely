@@ -24,11 +24,12 @@ body {
 }
 
 #seuraava {
-    border-radius: 15px;
+    
     padding: 1rem;
     margin: 1rem;
 }
 
 #nappi {
+    border-radius: 15px;
     text-align: center;
 }
